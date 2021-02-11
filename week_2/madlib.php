@@ -7,12 +7,12 @@
 <body>
     <h1>TONY BAG OF DONUTS MADDDDD LIBBBBS </h1>
         <form action="site.php" method="get">
-            plant name: <input type="text" name="plant name"> <br>
-            name of man: <input type="text" name="name of man"> <br>
+            plant name: <input type="text" name="plantname"> <br>
+            name of man: <input type="text" name="nameofman"> <br>
             adverb: <input type="text" name="adverb"> <br>
             noun: <input type="text" name="noun"> <br>
             animal: <input type="text" name="animal"> <br>
-            food name: <input type="text" name="food name"> <br>
+            food name: <input type="text" name="foodname"> <br>
             <input type="submit">
         </form>
     <br><br>
